@@ -26,7 +26,7 @@ finally:
 
 #4
 try:
-    sa=open("mainn.txt","r")
+    sa=open("aziz.txt","r")
 except(IndentationError):
     print("uzuuuuur")
 
